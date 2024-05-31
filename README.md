@@ -1,0 +1,1 @@
+This is a Java program that allows the user to view and manipulate images. It includes functionalities such as resizing, grayscale conversion, and brightness adjustment. The program uses Swing for creating the user interface components.
