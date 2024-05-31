@@ -1,3 +1,18 @@
-This is a Java program that allows the user to view and manipulate images. It includes functionalities such as resizing, grayscale conversion, and brightness adjustment. The program uses Swing for creating the user interface components.
+# Image Viewer
 
-این یک برنامه با زبان جاوا است که به کاربر امکان مشاهده و دستکاری تصاویر را می دهد. این شامل قابلیت هایی مانند تغییر اندازه، تبدیل مقیاس خاکستری و تنظیم روشنایی است. این برنامه از Swing برای ایجاد اجزای رابط کاربری استفاده می کند.
+This is a Java program that allows users to view and manipulate images. It provides functionalities such as resizing, grayscale conversion, and brightness adjustment. The user interface is built using Swing.
+
+## Features
+- **Image Resizing**: Adjust the size of your images.
+- **Grayscale Conversion**: Convert your images to grayscale.
+- **Brightness Adjustment**: Modify the brightness of your images.
+
+## Getting Started
+
+### Prerequisites
+- Java Development Kit (JDK) 8 or higher
+
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/paniizz/image-viewer.git
